@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "faster1259.aternos.me",
-    "port": 36266,
+    "ip": "FImemberSMP.aternos.me",
+    "port": 60535,
     "version": "1.20.1",
     "try-creative": false
   },
